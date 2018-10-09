@@ -1,4 +1,4 @@
-# Bare bones React
+# Bare bones
 
 - React
 - Webpack
